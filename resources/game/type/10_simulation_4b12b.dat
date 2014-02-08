@@ -1,0 +1,24 @@
+Simulation-Extra (4Bars, 12Balls)
+new:bar_ai 20 0.8 1 1
+new:bar_ai 100 0.8 1 1
+new:bar_ai 180 0.8 1 1
+new:bar_ai 260 0.8 1 1
+new:bar_ai -20 0.8 2 1
+new:bar_ai -100 0.8 2 1
+new:bar_ai -180 0.8 2 1
+new:bar_ai -260 0.8 2 1
+new:bonus bigbar
+new:bonus smallbar
+new:bonus magnet
+new:ball 0.6
+new:ball 0.6
+new:ball 0.6
+new:ball 0.6
+new:ball 0.6
+new:ball 0.6
+new:ball 0.6
+new:ball 0.6
+new:ball 0.6
+new:ball 0.6
+new:ball 0.6
+new:ball 0.6

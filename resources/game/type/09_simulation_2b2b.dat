@@ -1,0 +1,10 @@
+Simulation (2Bars, 2Balls)
+new:bar_ai 100 1.5 1 10
+new:bar_ai -100 1.5 2 10
+new:bar_ai 20 0.8 1 10
+new:bar_ai -20 0.8 2 10
+new:bonus bigbar
+new:bonus smallbar
+new:bonus magnet
+new:ball 1.5
+new:ball 1.5

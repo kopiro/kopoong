@@ -1,0 +1,11 @@
+GAME_TYPE_NAME
+new:bar x speed_mult pos
+new:bar_ai x speed_mult pos wrong_ai_y
+new:bonus_bigbar rand_mod interval_showed
+new:bonus_smallbar rand_mod interval_showed
+new:ball speed_mult
+
+
+# wrong_ai_y is the interval between the rand() foo generate the wrong y pos of ball to the bar_ai
+# x if expressed negative is width-x
+# pos is or 1, 2 (LEFT, RIGHT)

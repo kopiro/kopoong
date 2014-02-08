@@ -1,0 +1,8 @@
+2 Players (1Bar, 2Balls)
+new:bar 20 0.8 1
+new:bar -20 0.8 2
+new:bonus bigbar
+new:bonus smallbar
+new:bonus magnet
+new:ball 0.6
+new:ball 0.6

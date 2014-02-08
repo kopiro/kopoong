@@ -1,0 +1,7 @@
+You VS Computer (1Bar, 1Ball, Easy)
+new:bar_ai -20 0.6 2 60
+new:bar 20 0.6 1
+new:bonus bigbar
+new:bonus smallbar
+new:bonus magnet
+new:ball 0.6
